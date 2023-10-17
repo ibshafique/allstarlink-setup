@@ -9,9 +9,13 @@ Radio Interface: SHARI Pi3U
 ## Configurations
 
 /etc/asterisk/rpt.conf
+
 rchannel = SimpleUSB/usb_53028
+
 duplex = 0
+
 eaanmode =2
 
 /etc/asterisk/echolink.conf
+
 deny = *-L; *-R
