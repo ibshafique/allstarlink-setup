@@ -25,3 +25,6 @@ deny = *-L; *-R
 Make a file gps.conf. Create password for APRS-IS from: https://n5dux.com/ham/aprs-passcode/
 
 gps.conf file should have permission for asterisk user and group.
+
+
+<img src="https://github.com/ibshafique/allstarlink-setup/blob/main/assets/aprs_map.png">
