@@ -1,8 +1,8 @@
 ## Setting Up AllstarLink 
 
-Version: ASL Version 2.0.0-beta.6
+Version: ASL Version 3.4.5
 
-Hardware: Raspberry Pi 2 Model B V 1.1
+Hardware: VM running on Debian 12 Bookworm
 
 Radio Interface: SHARI Pi3U
 
