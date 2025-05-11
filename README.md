@@ -28,3 +28,7 @@ gps.conf file should have permission for asterisk user and group.
 
 
 <img src="https://github.com/ibshafique/allstarlink-setup/blob/main/assets/aprs_map.png">
+
+
+
+https://torun.com.bd/blog/Setting-Up-AllStarLink-ASL3-and-Associated-Tools
